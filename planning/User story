@@ -1,15 +1,9 @@
-Login/ Sign up:
-“As a student/user, I want to create an account and log in to the system so that I can access the system”.
-“As an admin, I want to log into the system so that I can manage the schedule”.
-View doctor:
-“As a student/user, I want to view the list of available doctors so that I can see their specialties and information before booking.”
-Book appointment:
-“As a student/user, I want to book an appointment with a doctor so that I can schedule a time that works for me to visit the clinic.”
-View my appointment:
-“As a student/user, I want to view my scheduled appointments so that I can see when and where my appointments are.”
-Cancel booking:
-“As a student/user, I want to cancel my appointment so that I can free up the appointment slot if my plans change.”
-View profile:
-“As a student/user, I want to view and manage my profile information so that I can keep my personal details up to date.”
-Manage schedule:
-“As an Admin, I want to manage available time slots and doctor availability to ensure the schedule is up to date.”
+As a Student, I want to log in to the app so I can access my profile.
+As a Student, I want to view a home dashboard, so that I can easily navigate to my bookings and doctor list
+As a Staff Member (Admin/Doctor), I want to log in securely so I can access the clinic dashboard.
+As a Student, I want to check doctor details to choose the right physician.
+As a Student, I want to book an appointment to avoid waiting in line.
+As a Student, I want to view my appointments to remember my schedule.
+As an Admin, I want to manage the schedule so students can see available slots.
+As a Doctor, I want to add and edit medical notes to keep patient records updated
+As a Patient/Doctor, I want to view medical notes to track treatment history.
