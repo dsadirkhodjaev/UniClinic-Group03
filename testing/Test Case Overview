@@ -1,0 +1,6 @@
+Here are the test cases for the university clinic appointment system. 
+The test cases are derived from the system's user stories and the use case diagram.
+They will be used to verify all the core functions of the system.
+Each test case include the feature being tested, the testing steps and the expected results.
+The test cases will be executed during the evaluation and apdated with test results.
+The purpose of the test cases is to ensure system meet functional requirements, verify correct system behaviour for the different user roles(student, admin, doctor) and also validate user inouts and system response.
