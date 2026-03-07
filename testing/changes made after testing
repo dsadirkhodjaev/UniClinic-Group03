@@ -1,0 +1,4 @@
+after testing the login dashboard was changed to have role selection(student/doctor/admin) before key in credentials
+the addition of a logout button to profile page so that user can logout from hiss account 
+clickable arrow that takes the doctor from patient list to patient's medical note 
+  
